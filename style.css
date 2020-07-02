@@ -1,0 +1,58 @@
+a{
+    text-decoration: none;
+    color: black;
+ }
+ a:hover{
+    color: red;
+ }
+
+.categories{
+     /* padding-top: 20px;*/
+
+      width: 15%;
+      display:inline-block;
+      height: 250px;
+      border: 2px solid black;
+
+ }
+  .categories h2{
+     padding-left: 40px;
+     font-style: normal;
+     font-weight: bolder;
+
+ }
+ .categories ul{
+      padding-top: 20px;
+      list-style: none;
+ }
+ .categories li{
+      padding-bottom: 10px;
+      font-style: normal ;
+      font-size: 20px;
+      font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+ }
+
+.container{
+     width:70%;
+     display:inline-block;
+     height: 200px;
+     border: 2px solid black;
+     
+}
+ .container img{
+    width: 30%;
+    border: 2px solid black;
+    display:inline-block;
+   
+ }
+
+ .water img{
+     width: 40%;
+     padding: 4px;
+ }
+
+ .water{
+    margin-left: 12%;
+
+}
+
